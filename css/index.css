@@ -1,0 +1,40 @@
+
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif 
+}
+/* 
+body{
+    background-color: #a3e459;
+} */
+
+h1{
+    color: rgb(193, 64, 197);
+    text-align: center;
+}
+
+.titulodos{
+    color:green;
+}
+
+.otrotitulo{
+    color:blueviolet;
+}
+
+#parrafo1{
+    font-size: 35px;
+}
+
+.parrafo{
+    border: solid 2px;
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 45px;
+    margin-bottom: 80px;
+    padding-top:50px;
+    padding-left: 45px;
+    padding-right: 60px;
+    padding-bottom: 80px;
+    text-align: justify;
+    background-color: chartreuse;
+}
+
